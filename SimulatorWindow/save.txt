@@ -1,0 +1,13 @@
+2
+11;11
+<html>Po spotkaniu Wilk z Wilk zosta³ stworzony nowy organizm<br>Wyros³a nowa roœlina Trawa<br>Wyros³a nowa roœlina Trawa<br></html>
+Wilk;3;2;1;9;5;1
+Wilk;2;3;1;9;5;1
+Owca;2;7;1;4;4;1
+Cz³owiek;6;7;1;5;4;1;1;4;10
+¯ó³w;8;10;1;2;1;0
+Trawa;7;7;1;0;0;0
+Trawa;0;4;1;0;0;0
+Wilk;3;1;1;9;5;0
+Trawa;8;8;1;0;0;0
+Trawa;0;3;1;0;0;0
